@@ -617,5 +617,4 @@ with tab4:
     NB2_Model_Evaluation.ipynb       → Loads predictions, compares models
     streamlit run app.py             → Interactive dashboard
     ```
-    *Submission deadline: 10 April 2026 | projects@firstquadrantlabs.com*
     """)
